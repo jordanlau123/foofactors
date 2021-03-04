@@ -27,7 +27,7 @@ Factors are a very useful type of variable in R, but they can also be very aggra
 You can install foofactors like so:
 
 ``` r
-devtools::install_github("jennybc/foofactors")
+devtools::install_github("jordanlau123/foofactors")
 ```
   
 ## Quick demo
